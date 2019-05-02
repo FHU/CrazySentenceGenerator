@@ -6,6 +6,7 @@ public class Main {
         CrazySentenceGenerator csg = new CrazySentenceGenerator();
 
         String s = csg.getCrazySentence("art + n + v");
+
         // s = "The cabin print.
 
     }

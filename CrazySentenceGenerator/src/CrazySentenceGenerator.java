@@ -44,7 +44,6 @@ public class CrazySentenceGenerator {
     public Word getRandomWord(Word.PartOfSpeech partOfSpeech) {
 
 
-
         return null;
     }
 

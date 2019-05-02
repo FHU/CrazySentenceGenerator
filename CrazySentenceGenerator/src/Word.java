@@ -27,7 +27,7 @@ public class Word {
     }
 
     //art, conj, adj, adv, det, prep, num, noun, verb, pro, inter, not, there, to
-    public PartOfSpeech partOfSpeechConverter(String partOfSpeechString) {
+    public static PartOfSpeech partOfSpeechConverter(String partOfSpeechString) {
 
         switch ( partOfSpeechString.trim() ) {
             case "art":
